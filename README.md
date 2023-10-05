@@ -1,5 +1,7 @@
 # ChairJump
-Why Am I Jumping On The Chair? 
+Why Am I Jumping On The Chair?
+
+
 Developer [Ura7](https://github.com/Ura7)
 
 ![chairudm](https://github.com/Nazlican1/ChairJump/assets/115481154/85717e5a-d550-462f-a5e2-a6206789d062)
